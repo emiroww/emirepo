@@ -11,5 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
         }
+
+        public void DoNothing()
+        {
+            Console.WriteLine("nothing");
+        }
     }
 }

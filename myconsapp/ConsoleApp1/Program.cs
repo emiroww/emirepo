@@ -16,5 +16,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("nothing");
         }
+
+        public void GoodMethod()
+        {
+            Console.WriteLine("good");
+        }
     }
 }
